@@ -1,4 +1,4 @@
-# Draft PH eReferral FHIR Implementation Guide (PH CORE IG)
+# Draft PH eReferral FHIR Implementation Guide (PH eRefferal IG)
 
 
 
