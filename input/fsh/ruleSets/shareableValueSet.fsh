@@ -1,2 +1,0 @@
-RuleSet: ShareableValueSet
-* ^experimental = true

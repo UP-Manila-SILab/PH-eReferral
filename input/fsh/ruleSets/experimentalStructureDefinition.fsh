@@ -1,2 +1,0 @@
-RuleSet: ExperimentalStructureDefinition
-* ^experimental = true
